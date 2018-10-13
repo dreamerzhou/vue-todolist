@@ -1,0 +1,24 @@
+{
+  "name": "vue_practice3",
+  "version": "1.0.0",
+  "description": "practice3",
+  "main": "webpack.config.js",
+  "scripts": {
+    "dev": "webpack-dev-server --content-base ./www --port 8087"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.5.17",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "style-loader": "^0.23.0",
+    "vue-loader": "^15.4.1",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.7"
+  }
+}
