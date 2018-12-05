@@ -1,4 +1,4 @@
-# vue-todos
+# vue-todo-list
 
 ## 项目启动
 
